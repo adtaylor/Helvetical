@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        HelveticalTest
+// @name        Helvetical
 // @description Google Calendar userstyle based on Helvetireader by Jon Hicks
 // @include     https://*.google.com/calendar/render/*
 // @include     http://*.google.com/calendar/render/*
